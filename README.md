@@ -10,10 +10,6 @@ PDF Comercial RanTech
 Apresentação comercial desenvolvida em HTML, CSS e Puppeteer.
 </p>
 
-# 🚀 PDF Comercial RanTech
-
-Apresentação comercial desenvolvida para a **RanTech Solutions**, criada em HTML e CSS e preparada para exportação em PDF utilizando **Puppeteer**.
-
 O projeto foi desenvolvido com foco em qualidade visual, reutilização de componentes e evolução futura para uma Landing Page institucional.
 
 ---
