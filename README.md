@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="./assets/logo/logo-rantech.png" width="180">
+</p>
+
+<h1 align="center">
+PDF Comercial RanTech
+</h1>
+
+<p align="center">
+Apresentação comercial desenvolvida em HTML, CSS e Puppeteer.
+</p>
+
 # 🚀 PDF Comercial RanTech
 
 Apresentação comercial desenvolvida para a **RanTech Solutions**, criada em HTML e CSS e preparada para exportação em PDF utilizando **Puppeteer**.
